@@ -1,5 +1,10 @@
 #### iOS dev working with Swift/SwiftUI
 
+##### Apps I've worked on 
+- Fox News
+- Fox Business
+- [Iffy](https://apps.apple.com/app/id1507844407)
+
 <!--
 **claudiaeng/claudiaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
