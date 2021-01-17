@@ -1,4 +1,4 @@
-### iOS dev working with Swift/SwiftUI
+## iOS dev working with Swift/SwiftUI
 
 <!--
 **claudiaeng/claudiaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
